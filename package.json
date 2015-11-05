@@ -1,0 +1,33 @@
+{
+  "name": "titanium-maskedimage",
+  "version": "1.0.0",
+  "description": "Cross platform implementation MaskedImage for Titanium SDK",
+  "main": "maskedImage.js",
+  "titaniumManifest": {
+    "name": "Ttitanium Masked Image",
+    "moduleid": "com.falkolab.maskedimage",
+    "guid": "f811b74f-a319-ee95-e6ee-c4b36d36924e"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+      "com.geraudbourdin.svgview": "~1.2.1",
+      "miga.tintimage": "~1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/falkolab/com.falkolab.maskedimage.git"
+  },
+  "keywords": [
+    "maskedimage",
+    "commonjs",
+    "titaniumifier"
+  ],
+  "author": "Andrey Tkachenko",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/falkolab/com.falkolab.maskedimage/issues"
+  },
+  "homepage": "https://github.com/falkolab/com.falkolab.maskedimage#readme"
+}
