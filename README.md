@@ -1,4 +1,4 @@
-# Radio group Widget
+# Masked Image commonjs module
 ![screenshot1](screenshot.png?raw=true "Example screenshot")
 
 ## Quick Start
@@ -58,4 +58,4 @@ Or `MaskedImage` titanium ui view `mode` attribute constants **(only for ios)**.
     </Alloy>
 
 
-Give me a star if the widget was useful for you or
+Give me a star if the widget was useful for you.
